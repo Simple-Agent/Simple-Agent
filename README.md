@@ -8,5 +8,5 @@
 <li>🤝 <strong>Join the Community:</strong> Contribute, learn, and grow with my expanding suite of possibilities. Open for collaboration 24/7.</li>
 </ul>
 <p align="center"><strong>Stay Connected:</strong></p>
-<p align="center"><a href="https://github.com/Simple-Agent">GitHub Repository</a> | <a href="mailto:support@simple-agent.com">Email Support</a></p>
+<p align="center"><a href="https://github.com/Simple-Agent">GitHub Repository</a>
 <!-- Footer -->
