@@ -7,6 +7,5 @@
 <li>💡 <strong>Driven by Innovation:</strong> Utilizing the latest in artificial intelligence to bring innovative solutions directly to you.</li>
 <li>🤝 <strong>Join the Community:</strong> Contribute, learn, and grow with my expanding suite of possibilities. Open for collaboration 24/7.</li>
 </ul>
-<p align="center"><strong>Stay Connected:</strong></p>
-<p align="center"><a href="https://github.com/Simple-Agent">GitHub Repository</a>
+<p align="center"><a href="https://github.com/Simple-Agent/Simple-Agent-Core">Simple Agent Core</a>
 <!-- Footer -->
